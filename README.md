@@ -7,5 +7,6 @@
   <b> Change your body, Change your life</b>
 </code>
 
-![alt_text](https://sinicropispine.com/wp-content/uploads/2017/05/strengthen-spine.jpg)(https://post.healthline.com/wp-content/uploads/2020/09/Back_Dumbbell_Workout_Weights-1200x628-Facebook-1200x628.jpg)
+![alt_text](https://sinicropispine.com/wp-content/uploads/2017/05/strengthen-spine.jpg)
+![alt_text](https://post.healthline.com/wp-content/uploads/2020/09/Back_Dumbbell_Workout_Weights-1200x628-Facebook-1200x628.jpg)
 
