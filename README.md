@@ -10,6 +10,6 @@
 ![alt_text](https://sinicropispine.com/wp-content/uploads/2017/05/strengthen-spine.jpg)
 ![alt_text](https://post.healthline.com/wp-content/uploads/2020/09/Back_Dumbbell_Workout_Weights-1200x628-Facebook-1200x628.jpg)
 
-사진출처: [Google][goolelink]
+사진출처: [Google][googlelink]
 [googlelink]http://google.com
 
