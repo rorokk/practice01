@@ -7,13 +7,9 @@
 # <b> Change your body, Change your life</b>
 
 <code>
- 
- 바디의 기본 체형 및 현재의 문제점을 체크하여 필요한 운동을 제시함.
- 올바른 자세 및 생활 습관을 유지할 수 있도록 점검하고 관리함.
- 
+바디의 기본 체형 및 현재의 문제점을 체크하여 필요한 운동을 제시함.
+올바른 자세 및 생활 습관을 유지할 수 있도록 점검하고 관리함.
 </code>
-
-------------------------------------
 
 
 ![alt_text](https://sinicropispine.com/wp-content/uploads/2017/05/strengthen-spine.jpg)
